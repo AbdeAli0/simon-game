@@ -51,9 +51,9 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
-.footer {
+footer {
     font-family: 'Press Start 2P', cursive;
-    font-size: 3rem;
+    font-size: 1rem;
     margin: 5%;
     color: #FEF2BF;
 }
